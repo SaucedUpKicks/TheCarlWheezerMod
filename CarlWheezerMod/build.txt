@@ -1,0 +1,6 @@
+author = KawaiiXylophone
+version = 0.3
+displayName = The Carl Wheezer Mod
+hideCode = true
+hideResources = true
+includeSource = false
